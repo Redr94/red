@@ -1,0 +1,22 @@
+body {
+	background-image:
+	url("");
+}
+div.logo {
+
+
+}
+div.bar {
+   margin-top: 5px;
+   margin-left: 790px;
+   width: 50px;
+   height: 20px;
+   border: 2px solid #545454;
+   border-radius:10px;
+   box-shadow: 5px 3px gray;
+   background: #32CD32;
+   transition: width 3s;
+}
+div.bar:hover {
+   width: 325px;
+}
