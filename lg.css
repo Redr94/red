@@ -6,8 +6,7 @@ body {
 }
 
 @font-face {	
-	font-family: pcsenior;
-	src:url("https://combinatronics.com/Redr94/red/LevelGrinder/pcsenior.ttf") format("truetype");
+	font-family:'VT323', monospace;
 }
 
 div.logo {}
@@ -27,7 +26,7 @@ div.bar {
 div.bar p {
   margin-top: 2.5px;
   margin-left: 5px;
-  font-family: pcsenior;
+  font-family: 'VT323';
   font-size: 13px;
   text-decoration: none;
   display: block;
