@@ -6,7 +6,7 @@ body {
 
 @font-face {	
 	font-family: pcsenior;
-	src:url("https://combinatronics.com/Redr94/red/LevelGrinder/pcsenior.ttf");
+	src:url("https://combinatronics.com/Redr94/red/LevelGrinder/pcsenior.ttf") format("truetype");
 }
 
 div.logo {}
