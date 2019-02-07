@@ -1,0 +1,45 @@
+html {
+
+}
+
+body {
+	background-image:
+	url("http://i66.tinypic.com/205qigx.jpg");
+	cursor: url('https://i.ibb.co/7SXx1Yq/250px-DQ-Slime2.png'), auto;
+}
+@font-face {	
+	font-family: Thaleia;
+	src:url("Thaleia.ttf");
+	font-family: dragon-warrior-ii-nes;
+	src:url("dragon-warrior-ii-nes.ttf");
+}
+#textbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+  color:darkblue;
+  font-family: Thaleia;
+  font-size: 35px;
+  font-weight: bold;
+  text-decoration:overline underline;
+  text-shadow:-1px -2px 0px lightgray;
+}
+
+p {
+  color:darkblue;
+  font-family: Thaleia;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration:overline underline;
+  text-shadow:-1px -2px 0px lightgray;
+  }
+
+#input {
+  color:darkblue;
+  font-family: dragon-warrior-ii-nes;
+  font-size: 10px;
+  font-weight: none;
+  text-shadow:-1px -2px 2px lightgray;
+  }
